@@ -1,0 +1,5 @@
+num = input('escreva um numero de 4 digitos: ')
+print(num[0:1])
+print(num[1:2])
+print(num[2:3])
+print(num[3:4])
